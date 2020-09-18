@@ -1,2 +1,4 @@
-# Fake-Portfolio
-more work with HTML and CSS
+#Fake Profile
+9/18/20
+fixed image location issues
+ran html validator to make sure no errors this time!
